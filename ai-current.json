@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-16",
+  "purpose": "Navigation and current-state pointers for UNTOLD promotion operations.",
+  "status": "initial setup",
+  "primaryPlatform": "X",
+  "secondaryPlatforms": ["TikTok", "YouTube Shorts"],
+  "sources": {
+    "persona": "persona/social-persona.md",
+    "operation": "strategy/social-operation.md",
+    "publicationLedger": "social/publication-ledger.md",
+    "campaigns": "campaigns/",
+    "drafts": "drafts/",
+    "gameCanon": "fg79sw4nvw-dot/untold-wiki@main"
+  },
+  "rules": [
+    "Use untold-wiki as the only authority for game canon.",
+    "Promotion content must never create or alter game canon.",
+    "Check publication history before revealing story or world information.",
+    "Record published posts in the publication ledger."
+  ]
+}
