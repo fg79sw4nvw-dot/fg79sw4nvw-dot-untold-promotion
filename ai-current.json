@@ -9,6 +9,7 @@
     "persona": "persona/social-persona.md",
     "operation": "strategy/social-operation.md",
     "publicationLedger": "social/publication-ledger.md",
+    "accountRegistry": "accounts/account-registry.md",
     "campaigns": "campaigns/",
     "drafts": "drafts/",
     "gameCanon": "fg79sw4nvw-dot/untold-wiki@main"
@@ -17,6 +18,7 @@
     "Use untold-wiki as the only authority for game canon.",
     "Promotion content must never create or alter game canon.",
     "Check publication history before revealing story or world information.",
-    "Record published posts in the publication ledger."
+    "Record published posts in the publication ledger.",
+    "Never store passwords, MFA secrets, recovery codes, API keys, tokens, or other authentication secrets in this repository."
   ]
 }
